@@ -1,0 +1,6 @@
+
+{
+  "name": "GitHub User Explorer",
+  "description": "A high-performance Vanilla Javascript application to explore GitHub profiles and repositories with a clean, responsive interface.",
+  "requestFramePermissions": []
+}
