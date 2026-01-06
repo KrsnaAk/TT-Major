@@ -16,8 +16,8 @@ A high-performance, modern web application designed to explore GitHub profiles a
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML5, Tailwind CSS
-- **Logic:** Vanilla JavaScript (ES6+)
+- **Frontend:** HTML, Tailwind CSS
+- **Logic:**  JavaScript
 - **API:** [GitHub REST API](https://docs.github.com/en/rest)
 - **Icons:** Custom SVG icons for a consistent look.
 
