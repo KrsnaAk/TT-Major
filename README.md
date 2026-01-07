@@ -3,7 +3,7 @@
 A high-performance, modern web application designed to explore GitHub profiles and repositories in real-time. Built with a focus on speed, aesthetics, and clean code.
 
 ![GitHub User Explorer Preview](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
-![Tech Stack](https://img.shields.io/badge/Tech-JS%20|%20HTML%20|%20CSS?style=for-the-badge)
+![Tech Stack](https://img.shields.io/badge/Tech-JS%20|%20HTML%20|%20CSS%20?style=for-the-badge)
 
 ## ✨ Features
 
