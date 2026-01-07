@@ -5,6 +5,8 @@ A high-performance, modern web application designed to explore GitHub profiles a
 ![GitHub User Explorer Preview](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
 ![Tech Stack](https://img.shields.io/badge/Tech-JS%20|%20HTML%20|%20CSS%20?style=for-the-badge)
 
+LIVE ON VERCEL --- https://tt-major.vercel.app/
+
 ## ✨ Features
 
 - **🔍 Real-time Search:** Instantly find any GitHub user by their username.
@@ -16,7 +18,7 @@ A high-performance, modern web application designed to explore GitHub profiles a
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, Tailwind CSS
+- **Frontend:** HTML,  CSS
 - **Logic:**  JavaScript
 - **API:** [GitHub REST API](https://docs.github.com/en/rest)
 - **Icons:** Custom SVG icons for a consistent look.
